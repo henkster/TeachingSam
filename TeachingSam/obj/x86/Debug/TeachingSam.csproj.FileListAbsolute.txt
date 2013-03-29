@@ -6,3 +6,11 @@ C:\dev\_Personal\TeachingSam\TeachingSam\bin\Debug\SmallBasicFun.xml
 C:\dev\_Personal\TeachingSam\TeachingSam\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\dev\_Personal\TeachingSam\TeachingSam\obj\x86\Debug\TeachingSam.exe
 C:\dev\_Personal\TeachingSam\TeachingSam\obj\x86\Debug\TeachingSam.pdb
+C:\dev\TeachingSam\TeachingSam\obj\x86\Debug\TeachingSam.exe
+C:\dev\TeachingSam\TeachingSam\obj\x86\Debug\TeachingSam.pdb
+C:\dev\TeachingSam\TeachingSam\bin\Debug\TeachingSam.exe
+C:\dev\TeachingSam\TeachingSam\bin\Debug\TeachingSam.pdb
+C:\dev\TeachingSam\TeachingSam\bin\Debug\SmallBasicFun.dll
+C:\dev\TeachingSam\TeachingSam\bin\Debug\SmallBasicLibrary.dll
+C:\dev\TeachingSam\TeachingSam\bin\Debug\SmallBasicFun.xml
+C:\dev\TeachingSam\TeachingSam\obj\x86\Debug\TeachingSam.csprojResolveAssemblyReference.cache
