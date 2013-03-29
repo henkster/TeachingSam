@@ -2,11 +2,11 @@
 
 namespace SimpleSquare
 {
-	public class SimpleSquare
-	{
-		public static void Main()
-		{
-			Tortoise.Show();
+    public class SimpleSquare
+    {
+        public static void Main()
+        {
+            Tortoise.Show();
             Tortoise.SetSpeed(10);
             for (int i = 0; i < 4; i++)
             {
@@ -14,6 +14,6 @@ namespace SimpleSquare
                 Tortoise.Move(50);
                 Tortoise.Turn(90);
             }
-		}
-	}
+        }
+    }
 }
